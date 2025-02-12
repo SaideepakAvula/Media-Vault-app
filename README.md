@@ -42,4 +42,5 @@ Media Vault App is an AI-powered cross-platform application built using React Na
 🔗 Media Vault App UI
 
 🚀 Media Vault App is built to enhance storage efficiency and user convenience. Contributions & feedback are welcome!
+![Screenshot 2025-02-12 234228](https://github.com/user-attachments/assets/e67a33fd-bcc6-4331-88c4-c565a9411368)
 
