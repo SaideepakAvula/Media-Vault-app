@@ -21,7 +21,7 @@ Media Vault App is an AI-powered cross-platform application built using React Na
 
 ✅ Chatbot Integration – Interact with an intuitive chatbot for easy storage management.
 
-
+  
 ⚙️ Technologies Utilized
 
 🔹 React Native – Cross-platform development for Windows and macOS.
